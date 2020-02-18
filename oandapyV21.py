@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-plt.rcParams['font.family'] = 'IPAPGothic'
 from oandapyV20 import API
 from oandapyV20.exceptions import V20Error
 import oandapyV20.endpoints.instruments as instruments
