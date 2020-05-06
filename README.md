@@ -1,2 +1,2 @@
 # oandapyv21
-oanda rest api のラッパーのラッパー
+oanda rest api をいじくったまとめ
