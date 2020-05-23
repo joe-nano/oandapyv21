@@ -1,2 +1,2 @@
 # oandapyv21
-oanda rest api をいじくったまとめ
+oandapyV20 をいじくったまとめ
